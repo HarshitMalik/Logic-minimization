@@ -1,0 +1,6 @@
+.input a b c
+.output x y z
+.x abc + a'bc + a'b'c'
+.y (a + b' + c')(b + c')
+.z ab + a' + ab'c'
+
